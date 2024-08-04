@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PriK13
-- 👀 I’m interested in programming and graphic design.
-- 🌱 I’m currently learning HTML and CSS.
+- 👀 I’m interested in programming and graphic design
+- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: My email -> priscilla.k13.developer@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like working with visual art for websites.
