@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PriK13
-- 👀 I’m interested in programming and graphic design
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in programming and graphic design.
+- 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me: My email -> priscilla.k13.developer@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I like working with visual art for websites.
 
 <!---
 PriK13/PriK13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
